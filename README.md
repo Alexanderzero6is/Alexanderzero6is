@@ -30,8 +30,11 @@ Alexander</a></h1>
 
 - 📫 How to reach me **alexander.cisneros@unmsm.edu.pe**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+- 📄 Know about my experiences
+  <!--
+  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+  <br/>
+  -->
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
