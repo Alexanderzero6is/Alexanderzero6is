@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="https://Alexanderzero6is.github.io/Me.io" target="blank">
 Alexander</a></h1>
-<h3 align="center">A passionate programmer and electronic circuit from Peru &#127477;&#127466;</h3>
-<p align="center">
-  <a href="www.linkedin.com/in/alexander-zero6is" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:alexraul2223@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
+<h3 align="center">A passionate programmer and electronic circuit from Peru &#127477;&#127466;</h3><p align="center">
+  <a href="https://www.linkedin.com/in/alexander-zero6is/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alexander LinkedIn"/>
+  </a>
+  
+  <a href="mailto:alexraul2223@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Alexander Gmail"/>
+  </a>
+</p>
 <br>
 
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <a target="_blank" align="center">
