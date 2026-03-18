@@ -40,7 +40,7 @@ Alexander</a></h1>
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
+<!--
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -94,6 +94,5 @@ Alexander</a></h1>
 <br>
 <br><br><br>
 <br><br>
-
-
+-->
 
