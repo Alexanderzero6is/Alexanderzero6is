@@ -3,7 +3,7 @@ Alexander</a></h1>
 <h3 align="center">A passionate programmer and electronic circuit from Peru &#127477;&#127466;</h3>
 <p align="center">
   <a href="www.linkedin.com/in/alexander-zero6is" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:alexander.cisneros@unmsm.edu.pe" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:alexraul2223@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 
