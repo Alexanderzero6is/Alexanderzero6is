@@ -58,7 +58,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🗂 [blog-api](https://github.com/Alexanderzero6is/blog-api)
+### 🗂 [Blogging-Platform-API](https://github.com/Alexanderzero6is/Blogging-Platform-API)
 RESTful backend API for blog post management. Full CRUD, input validation, SQL persistence, modular architecture.
 
 `Python` `REST API` `SQL` `Backend`
